@@ -16,3 +16,7 @@ Includes automatic image rotation, manual navigation arrows, dot indicators, and
 - React
 - Tailwind CSS
 - Lucide React (for icons)
+
+## 🔗 Live Demo
+
+Check out the live app here: [https://react-tailwind-image-slider.vercel.app/](https://react-tailwind-image-slider.vercel.app/)
