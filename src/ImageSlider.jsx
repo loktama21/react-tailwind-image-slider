@@ -1,8 +1,8 @@
 import { useState, useEffect, useRef } from "react" // 🔹 useRef added for hover detection
 import { ChevronLeft, ChevronRight } from "lucide-react"
-import SlideImage from "./components/SlideImage"
-import SliderArrow from "./components/SliderArrow"
-import DotIndicators from "./components/DotIndicators"
+import SlideImage from "./imageSliderComponents/SlideImage"
+import SliderArrow from "./imageSliderComponents/SliderArrow"
+import DotIndicators from "./imageSliderComponents/DotIndicators"
 
 const images = [
   "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2023/12/29122040/lake.jpeg",
